@@ -4,5 +4,6 @@ let image1 = document.getElementById("image1");
 
 btn.addEventListener("click", function() {
     header1.textContent = " Paminawin mo ang music hihihi!";
-image1.src = "./images.jfif"
+image1.src = "ChocolateBouquet30.webp";
+
 });
